@@ -1,0 +1,8 @@
+{
+  "NFTAuctionProxyModule#NFTAuction": "0x52538bE80cED3924cD0E747E52Dca058113425F9",
+  "NFTAuctionProxyModule#TransparentUpgradeableProxy": "0xC09a96F4dF2a30c5eed5b7FfEA73B5DA2A7CdFAC",
+  "NFTAuctionProxyModule#ProxyAdmin": "0x6aF727741B565d1ED10E3E6bF25E0116Dea70a10",
+  "NFTAuctionModule#NFTAuction": "0xC09a96F4dF2a30c5eed5b7FfEA73B5DA2A7CdFAC",
+  "NFTAuctionUpgradeModule#NFTAuctionV2AtProxy": "0xC09a96F4dF2a30c5eed5b7FfEA73B5DA2A7CdFAC",
+  "NFTAuctionUpgradeModule#NFTAuctionV2": "0x3d9F860626f76De17d98173ccA2ab89be1f91C48"
+}
